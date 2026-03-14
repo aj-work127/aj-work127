@@ -1,5 +1,10 @@
 # 💫 About Me:
-hey, i am Ajinkya biradar , an Ai enthuisast ,Developer, Tech Fan
+# Ajinkya Biradar
+
+AI Engineer | Backend Systems | Automation
+
+Building AI systems, developer tools and automation pipelines.
+Focused on production-ready ML and scalable backend architecture.
 
 
 ## 🌐 Socials:
